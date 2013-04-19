@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-       Copyright (c) 2013 Eclipse Foundation and others.
+  Copyright (c) 2013 Eclipse Foundation and others.
   All rights reserved. This program and the accompanying materials
   are made available under the terms of the Eclipse Distribution License v1.0
   which accompanies this distribution, and is available at
   http://www.eclipse.org/org/documents/edl-v10.php
- 
+
   Contributors:
      Thanh Ha (Eclipse Foundation) - initial implementation
 -->
@@ -19,6 +19,8 @@
   <packaging>pom</packaging>
 
   <properties>
+    <!-- Release Type: snapshot or release -->
+    <release-type>snapshot</release-type>
     <maven.version>3.0.5</maven.version>
     <tycho.version>0.17.0</tycho.version>
     <tycho-repo.url>https://oss.sonatype.org/content/repositories/public/</tycho-repo.url>
