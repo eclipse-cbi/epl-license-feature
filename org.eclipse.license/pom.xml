@@ -17,8 +17,6 @@
     <version>1.0.1-SNAPSHOT</version>
   </parent>
 
-  <groupId>org.eclipse.license.feature</groupId>
   <artifactId>org.eclipse.license</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
   <packaging>eclipse-feature</packaging>
 </project>
