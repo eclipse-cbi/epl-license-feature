@@ -15,7 +15,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.eclipse.license</groupId>
   <artifactId>eclipse-license-parent</artifactId>
-  <version>1.0.0.v20131003-1638</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <prerequisites>
