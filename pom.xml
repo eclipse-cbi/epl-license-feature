@@ -26,7 +26,7 @@
     <!-- Release Type: snapshot or release -->
     <release-type>snapshot</release-type>
     <maven.version>3.0.5</maven.version>
-    <tycho.version>0.18.1</tycho.version>
+    <tycho.version>0.20.0</tycho.version>
     <tycho-repo.url>https://oss.sonatype.org/content/repositories/public/</tycho-repo.url>
   </properties>
 
