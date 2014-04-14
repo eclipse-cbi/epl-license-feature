@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="org.eclipse.license"
-      version="1.0.1.qualifier">
+      version="1.0.1.v20140414-1359">
 
    <description>
       %description

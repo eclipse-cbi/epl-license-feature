@@ -14,7 +14,7 @@
   <parent>
     <groupId>org.eclipse.license</groupId>
     <artifactId>eclipse-license-parent</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1.v20140414-1359</version>
   </parent>
 
   <properties>
