@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
     <feature
-        url="features/org.eclipse.license_1.0.1.v20140414-1359.jar"
         id="org.eclipse.license"
-        version="1.0.1.v20140414-1359">
+        version="2.0.0.qualifier">
     </feature>
 </site>
