@@ -2,6 +2,6 @@
 <site>
     <feature
         id="org.eclipse.license"
-        version="2.0.1.qualifier">
+        version="2.0.2.qualifier">
     </feature>
 </site>
